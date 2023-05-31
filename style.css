@@ -7,22 +7,19 @@ html {
     width: 50%
     margin-left: 25%;
     margin-right: 25%;
+    color: white;
 }
 
 h1 {
-    color: white;
     font-family: 'Libre Baskerville', serif;
-    text-align: center;
     text-transform: capitalize;
 }
 
 p {
     color: white;
-    text-align: center;
 }
 
 img {
     border: 5px solid white;
-    height: 80%;
-    width: 80%;
+    width: 100%;
 }
